@@ -4,12 +4,12 @@
 
 <br/>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihailTs&layout=compact" width="100%" />
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihailTs&layout=compact" width="40%" />
 </div>
 
 <br/>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MihailTs&show_icons=true&theme=radical" width="100%" />
+<div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=MihailTs&show_icons=true&theme=radical" width="40%" />
 </div>
