@@ -1,5 +1,5 @@
 <div align="center" style="width: 65%; max-width: 800px;">
-    <img src="https://readme-jokes.vercel.app/api" width="100%" />
+    <img src="https://readme-jokes.vercel.app/api" width="90%" />
 </div>
 
 <div align="center">
