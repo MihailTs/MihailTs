@@ -1,4 +1,4 @@
-<div align="center" style="width: 75%; max-width: 800px;">
+<div align="center" style="width: 65%; max-width: 800px;">
     <img src="https://readme-jokes.vercel.app/api" width="100%" />
 </div>
 
