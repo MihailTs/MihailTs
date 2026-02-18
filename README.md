@@ -12,11 +12,12 @@ I'm a Computer Science student at Sofia University (FMI), interested in **machin
 📬 mihail.tsvetkov.04@gmail.com · [LinkedIn](https://www.linkedin.com/in/mihail-tsvetkov-6965a314)
 
 <br>
+<br>
 <div align="center" style="width: 65%; max-width: 800px;">
     <img src="https://readme-jokes.vercel.app/api" width="90%" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats-mts.vercel.app//api/top-langs/?username=MihailTs&layout=compact&theme=radical" width="49%" height="200px" />
-    <img src="https://github-readme-stats-mts.vercel.app//api?username=MihailTs&show_icons=true&theme=radical" width="49%" height="200px" />
+    <img src="https://github-readme-stats-mts.vercel.app/api/top-langs/?username=MihailTs&layout=compact&theme=radical&exclude_repo=github-readme-stats-mts,Trading-Bot" height="150px"/>
+    <img src="https://github-readme-stats-mts.vercel.app//api?username=MihailTs&show_icons=true&theme=radical" height="150px" />
 </div>
