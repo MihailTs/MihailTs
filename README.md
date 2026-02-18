@@ -17,6 +17,6 @@ I'm a Computer Science student at Sofia University (FMI), interested in **machin
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats-mts.vercel.app/api/top-langs/?username=MihailTs&layout=compact&theme=radical" width="49%" height="200px" />
-    <img src="https://github-readme-stats-mts.vercel.app/api?username=MihailTs&show_icons=true&theme=radical" width="49%" height="200px" />
+    <img src="https://github-readme-stats-mts.vercel.app//api/top-langs/?username=MihailTs&layout=compact&theme=radical" width="49%" height="200px" />
+    <img src="https://github-readme-stats-mts.vercel.app//api?username=MihailTs&show_icons=true&theme=radical" width="49%" height="200px" />
 </div>
