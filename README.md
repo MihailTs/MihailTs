@@ -5,7 +5,7 @@ I'm a Computer Science student at Sofia University (FMI), interested in **machin
 ## What I'm working on
 
 - Finishing my B.Sc. and taking courses in machine learning, deep learning, and large language models
-- Exploring research directions in ML and data-driven problem solving
+- Exploring opportunities to apply my knowledge in ML and data-driven problem solving
 
 ## Get in touch
 
